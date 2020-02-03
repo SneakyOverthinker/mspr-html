@@ -4,9 +4,6 @@
   box-sizing: border-box;
 }
 
-#header {
-  background-color: red;
-}
 #header .navbar ul {
   display: flex;
   align-content: center;
@@ -22,5 +19,9 @@
   padding: 10px 20px;
   text-decoration: none;
   color: inherit;
+}
+
+#footer {
+  background-color: black;
 }
 /*# sourceMappingURL=app.css.map */
