@@ -4,6 +4,10 @@
         <div class="container">
             Let's make something good
         </div>
+        <div class="container">
+            <img  src="loutre-home-page.png/images" alt="Les loutres s'aiment"
+        </div>
+
 
     </section>
 
