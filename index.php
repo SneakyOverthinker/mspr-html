@@ -5,7 +5,7 @@
             Let's make something good
         </div>
         <div class="container">
-            <img  src="loutre-home-page.png/images" alt="Les loutres s'aiment"
+            <img  src="public/images/loutre-home-page" alt="Les loutres s'aiment" width="100%">
         </div>
 
 
