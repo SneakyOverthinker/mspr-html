@@ -15,19 +15,19 @@
     <nav class="navbar">
         <ul>
             <li>
-                Homepage
+                <a href="/"> Homepage </a>
             </li>
             <li>
-                Le refuge
+                <a href="/"> Le refuge </a>
             </li>
             <li>
-                Nos loutres
+                <a href="/"> Nos loutres </a>
             </li>
             <li>
-                Contact
+                <a href="/"> Contact </a>
             </li>
             <li>
-                About us
+                <a href="/"> About us </a>
             </li>
         </ul>
     </nav>

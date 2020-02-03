@@ -4,3 +4,18 @@
   box-sizing: border-box;
 }
 /*# sourceMappingURL=app.css.map */
+header .navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+header .navbar ul {
+  list-style: inside;
+}
+header .navbar ul li {
+
+  display: inline-block;
+  vertical-align: middle;
+  list-style-type: none;
+  margin-right: 20px;
+}
