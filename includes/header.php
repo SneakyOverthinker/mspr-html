@@ -16,27 +16,27 @@
 <header id="header">
 
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="#">OTTERS</a>
+        <a class="navbar-brand" href="./">OTTERS</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
-                <li class="nav-item active">
-                    <a class="nav-link" href="/mspr-html/home.php">Accueil<span class="sr-only">(current)</span></a>
+                <li class="nav-item ">
+                    <a class="nav-link" href="./">Accueil</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/mspr-html/catalogue.php">Les loutres</a>
+                    <a class="nav-link" href="catalogue">Les loutres</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/mspr-html/refuge.php">Le refuge</a>
+                    <a class="nav-link" href="refuge">Le refuge</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/mspr-html/contact.php">Contact</a>
+                    <a class="nav-link" href="contact">Contact</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/mspr-html/about.php">A propos</a>
+                    <a class="nav-link" href="about">A propos</a>
                 </li>
             </ul>
         </div>

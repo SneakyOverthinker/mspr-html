@@ -1,5 +1,10 @@
 <?php require_once 'includes/header.php'; ?>
+    <section id="home-jumbotron">
 
-LA MAISON
+        <div class="container">
+            Let's make something good
+        </div>
+
+    </section>
 
 <?php require_once 'includes/footer.php'; ?>
