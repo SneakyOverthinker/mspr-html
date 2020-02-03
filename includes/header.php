@@ -10,27 +10,26 @@
     <title>Document</title>
 </head>
 <body>
-<header>
-<div class="container">
-    <nav class="navbar">
-        <ul>
-            <li>
-                <a href="/"> Homepage </a>
-            </li>
-            <li>
-                <a href="/"> Le refuge </a>
-            </li>
-            <li>
-                <a href="/"> Nos loutres </a>
-            </li>
-            <li>
-                <a href="/"> Contact </a>
-            </li>
-            <li>
-                <a href="/"> About us </a>
-            </li>
-        </ul>
-    </nav>
-</div>
-    Mon super header
+<header id="header">
+    <div class="container">
+        <nav class="navbar">
+            <ul>
+                <li>
+                    <a href="/"> Homepage </a>
+                </li>
+                <li>
+                    <a href="/"> Le refuge </a>
+                </li>
+                <li>
+                    <a href="/"> Nos loutres </a>
+                </li>
+                <li>
+                    <a href="/"> Contact </a>
+                </li>
+                <li>
+                    <a href="/"> About us </a>
+                </li>
+            </ul>
+        </nav>
+    </div>
 </header>
