@@ -1,4 +1,6 @@
 footer {
   display: block;
   background-color: black;
-}
+
+#sticky-footer {
+  flex-shrink: none;
