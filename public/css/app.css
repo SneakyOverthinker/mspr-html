@@ -21,7 +21,8 @@
   color: inherit;
 }
 
-#footer {
+footer {
+  display: block;
   background-color: black;
 }
 /*# sourceMappingURL=app.css.map */
