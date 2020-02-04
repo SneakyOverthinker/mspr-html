@@ -25,7 +25,37 @@
       padding: 10px 20px;
       text-decoration: none;
       color: inherit; }
-jumbotron
+
+body {
+  color:black;
+  background-color:white;
+  background-image:url(public/images/loutre-home-page);
+  background-attachment:fixed;
+  background-repeat:no-repeat;
+}
+
+*{
+  border-radius:0px;
+  border-top-left-radius: 0px!important;
+  border-top-right-radius: 0px!important;
+  border-bottom-right-radius: 0px!important;
+  boder-bottom-left-radius: 0px!important;
+}
+header .content-header {
+  color: #fff;
+  height: 666px;
+}
+
+form {
+  display: block;
+  marting-top: Oem;
+}
+@media (max-width: 990px)
+header .content-header {
+  color: #fff;
+  height: 500px!important;
+}
+
 footer {
   display: block;
   background-color: black; }
