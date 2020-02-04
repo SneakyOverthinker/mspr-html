@@ -1,5 +1,6 @@
 <?php require_once 'includes/header.php'; ?>
 
+<main id="main">
     <section id="home-jumbotron">
 
         <div id="content-header" class="content-header header-home">
@@ -41,8 +42,7 @@
 
 
 
-            <button type="submit" class="btn btn-primary color=" red
-            ">
+            <button type="submit" class="btn btn-primary color="red">
             Cherchez votre loutre !
             </button>
         </div>
@@ -75,12 +75,13 @@
             <div class="col">
                 <div class="card">
                     <h3 class="h4">Les loutres cendrée</h3>
-                    <img scr
+                    <img scr="../public/images/loutre-cendrée" alt="Famille de loutres cendrées">
                     <p>La loutre cendrée est une espèce de loutres de la famille des Mustelidés. Aussi appelée loutre asiatique ou loutre naine d'Asie, cette loutre est menacée et considérée comme étant vulnérable à cause de la disparition rapide de son habitat</p>
+
                 </div>
             </div>
         </div>
     </div>
 
-
+</main>
 <?php require_once 'includes/footer.php'; ?>
