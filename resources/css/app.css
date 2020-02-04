@@ -25,10 +25,17 @@
       padding: 10px 20px;
       text-decoration: none;
       color: inherit; }
-jumbotron
+
+    #home-jumbotron{
+      background-image: url("../public/images/loutre-home-page");
+    }
+
 footer {
   display: block;
   background-color: black; }
+  footer #sticky-footer {
+    -ms-flex-negative: 0;
+    flex-shrink: 0; }
 
 #index-jumbotron {
   padding: 10px 20px;
