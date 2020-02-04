@@ -41,8 +41,7 @@
 
 
 
-            <button type="submit" class="btn btn-primary color=" red
-            ">
+            <button type="submit" class="btn btn-primary color=" red">
             Cherchez votre loutre !
             </button>
         </div>
