@@ -30,6 +30,9 @@
                     <li class="nav-item">
                         <a class="nav-link" href="about.php">A Propos</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="contact.php">Contact</a>
+                    </li>
                 </ul>
                 <form class="form-inline">
                     <div class="md-form my-0">
@@ -41,7 +44,7 @@
     </nav>
     <!-- Navbar -->
     <!-- Full Page Intro -->
-    <div class="view jarallax" data-jarallax='{"speed": 0.2}' style="background-image: url('https://www.biotropica.fr/biotropica-content/uploads/2018/02/loutre-5.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
+    <div class="view jarallax" data-jarallax='{"speed": 0.2}' style="background-image: url('https://www.biotropica.fr/biotropica-content/uploads/2018/02/loutre-5.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center; min-height:">
         <!-- Mask & flexbox options-->
         <div class="mask rgba-black-light d-flex justify-content-center align-items-center">
             <!-- Content -->
@@ -50,11 +53,10 @@
                 <div class="row">
                     <!--Grid column-->
                     <div class="col-md-12 mb-4 white-text text-center">
-                        <h1 class="h1-reponsive white-text text-uppercase font-weight-bold mb-0 pt-md-5 pt-5 wow fadeInDown" data-wow-delay="0.3s"><strong>Minimalist intro</strong></h1>
-                        <hr class="hr-light my-4 wow fadeInDown" data-wow-delay="0.4s">
-                        <h5 class="text-uppercase mb-4 white-text wow fadeInDown" data-wow-delay="0.4s"><strong>OTTERS</strong></h5>
-                        <a class="btn btn-outline-white wow fadeInDown" data-wow-delay="0.4s">portfolio</a>
-                        <a class="btn btn-outline-white wow fadeInDown" data-wow-delay="0.4s">About me</a>
+                        <h1 class="h1-reponsive white-text text-uppercase font-weight-bold mb-0 pt-md-5 pt-5 wow fadeInDown" data-wow-delay="0.3s"><strong></strong></h1>
+                        <hr class="hr-light my-5 wow fadeInDown" data-wow-delay="1.9s">
+                        <h5 class="text-uppercase mb-4 white-text wow fadeInDown" data-wow-delay="0.4s"><strong></strong></h5>
+
                     </div>
                     <!--Grid column-->
                 </div>
