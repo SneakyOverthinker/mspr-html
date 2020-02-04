@@ -1,6 +1,7 @@
 <?php require_once 'includes/header.php'; ?>
 
-<section class="container">
+<main id="main">
+    <section class="home-jumbotron">
     <form method="post" action="/loutres/recherche">
         <div class="block-form-search" >
             <h3> "Trouvez la loutre qui <strong> vous </strong> convient</h3>
@@ -69,5 +70,5 @@
         </div>
     </form>
 </section>
-
+</main>
 <?php require_once 'includes/footer.php'; ?>
