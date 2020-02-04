@@ -22,13 +22,13 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent-7">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item active">
-                        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="catalogue.php">Les Loutres<span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Link</a>
+                        <a class="nav-link" href="refuge.php">Le Refuge</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Profile</a>
+                        <a class="nav-link" href="about.php">A Propos</a>
                     </li>
                 </ul>
                 <form class="form-inline">
@@ -52,7 +52,7 @@
                     <div class="col-md-12 mb-4 white-text text-center">
                         <h1 class="h1-reponsive white-text text-uppercase font-weight-bold mb-0 pt-md-5 pt-5 wow fadeInDown" data-wow-delay="0.3s"><strong>Minimalist intro</strong></h1>
                         <hr class="hr-light my-4 wow fadeInDown" data-wow-delay="0.4s">
-                        <h5 class="text-uppercase mb-4 white-text wow fadeInDown" data-wow-delay="0.4s"><strong>Photography & design</strong></h5>
+                        <h5 class="text-uppercase mb-4 white-text wow fadeInDown" data-wow-delay="0.4s"><strong>OTTERS</strong></h5>
                         <a class="btn btn-outline-white wow fadeInDown" data-wow-delay="0.4s">portfolio</a>
                         <a class="btn btn-outline-white wow fadeInDown" data-wow-delay="0.4s">About me</a>
                     </div>
