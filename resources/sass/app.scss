@@ -5,8 +5,11 @@
 @import "layout/header";
 @import "layout/footer";
 
-@import "pages/";
+@import "pages/accueil";
+@import "pages/about";
+@import "pages/catalogue";
 @import "pages/contact";
+@import "pages/loutre";
 
 @import "components/button";
 @import "components/form";
