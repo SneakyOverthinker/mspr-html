@@ -1,11 +1,14 @@
 <?php require_once 'includes/header.php'; ?>
-    <section id="home-jumbotron"></section>
-    LA MAISON
 
-    <!--Grid row-->
-    </div>
+    <section id="home-jumbotron"
+             style="background-image: url('https://www.biotropica.fr/biotropica-content/uploads/2018/02/loutre-5.jpg')">
+        <!-- Full Page Intro -->
+        <div class="container">
+            <!--Grid row-->
+            <h1 class="display-4 text-white">Ma page</h1>
+            <!--Grid row-->
+        </div>
     </section>
-    <!-- Main navigation -->
 
     <!--Main Layout-->
     <main>

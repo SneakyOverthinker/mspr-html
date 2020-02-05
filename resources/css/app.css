@@ -34,6 +34,10 @@
       margin: 15px
     }
 
+
+
+
+
     .btn btn-primary{
       color: red;
       background: darkred;
@@ -45,7 +49,7 @@ footer {
     -ms-flex-negative: 0;
     flex-shrink: 0; }
 
-#index-jumbotron {
+#-jumbotron {
   padding: 10px 20px;
   margin: 15px;}
 
