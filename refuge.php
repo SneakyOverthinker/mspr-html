@@ -3,6 +3,9 @@
     <section id="jumbotron">
         Le refuge
     </section>
+    <section class="home-jumbotron">
+        <form method="post" action="/refuge/recherche">
+        </form>
 
 <section id="container">
 

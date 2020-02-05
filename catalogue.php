@@ -1,37 +1,11 @@
 <?php require_once 'includes/header.php'; ?>
 
-    <main id="main">
+    <main>
 
-        <section id="home-jumbotron">
-            <div id="content-header" class="content-header header-home">
-                <div class="content-header-position-blocks max-w-1280">
-                    Les loutres.
-                </div>
-            </div>
-    </div>
-    </form>
+        <section id="container" >
+                            <div class="container">
 
-
-
-
-            <button type="submit" class="btn btn-primary color=" red">
-            Cherchez votre loutre !
-            </button>
-        </div>
-
-
-<div class="container">
-    <h2 class="h3">Livret de <em>famille</em> de nos loutres</h2>
-</div>
-
-    <div class="container">
-        <div class="row">
-            <div class="col">
-                <div class="card">
-                    <h3 class="h4">Les loutres à joues blanches du Cap</h3>
-                    <p>Les loutres à joues blanches sont un genre de loutres de la famille des Mustélidés. Si la loutre du Cap ne se rencontre à l'état sauvage qu'en Afrique, la loutre cendrée, quant à elle, n'est présente qu'en Asie. Une espèce disparue a vécu en Europe dont en France jusque dans le précédent interglaciaire.</p>
-                </div>
-
+                           </div>
         </section>
 
         <section id="home-formulaire">
@@ -81,7 +55,7 @@
                     </div>
                     <div class="col-md-6">
                         <div class="card card-body mb-3">
-                            <h3 class="h4">Les loutres cendrée</h3>
+                            <h3 class="h4 mb-3">Les loutres cendrée</h3>
                             <img scr="../public/images/loutre-cendrée" alt="Famille de loutres cendrées">
                             <p>La loutre cendrée est une espèce de loutres de la famille des Mustelidés. Aussi appelée
                                 loutre asiatique ou loutre naine d'Asie, cette loutre est menacée et considérée comme
@@ -134,7 +108,44 @@
 
             </div>
         </section>
-
+<section>
+    <div class="col-md-6">
+        <div class="card card-body mb-3">
+            <form method="GET" action="./refuge">
+        <h2 class="h3">Venez découvrir leur refuge ! </h2>
+        <button type="submit" class="btn btn-primary" color="warning">
+            Leur maison
+        </button>
+            </form>
+        </div>
+    </div>
+</section>
+        <section>
+            <div class="row">
+            <div class="col-md-6">
+                <div class="card card-body mb-3">
+                    <form method="GET" action="./don">
+                    <h2 class="h3">Soutenez-les, soutenez-nous ! </h2>
+                    <button type="submit" class="btn btn-primary">
+                        Faites un don !
+                    </button>
+                    </form>
+                </div>
+                </div>
+            </div>
+        </section>
+        <section>
+            <div class="col-md-6">
+                <div class="card card-body mb-3">
+                    <form method="GET" action="./conseils">
+                    <h2 class="h3">Venez découvrir les conseils pratiques ! </h2>
+                    <button type="submit" class="btn btn-primary" color="#red">
+                        Bien s'occuper de sa loutre !
+                    </button>
+                    </form>
+                </div>
+            </div>
+        </section>
 
     </main>
 

@@ -34,8 +34,10 @@
       margin: 15px
     }
 
-
-
+    .btn btn-primary{
+      color: red;
+      background: darkred;
+    }
 footer {
   display: block;
   background-color: black; }
