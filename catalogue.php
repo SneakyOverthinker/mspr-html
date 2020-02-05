@@ -8,6 +8,30 @@
                     Les loutres.
                 </div>
             </div>
+    </div>
+    </form>
+
+
+
+
+            <button type="submit" class="btn btn-primary color=" red">
+            Cherchez votre loutre !
+            </button>
+        </div>
+
+
+<div class="container">
+    <h2 class="h3">Livret de <em>famille</em> de nos loutres</h2>
+</div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <div class="card">
+                    <h3 class="h4">Les loutres à joues blanches du Cap</h3>
+                    <p>Les loutres à joues blanches sont un genre de loutres de la famille des Mustélidés. Si la loutre du Cap ne se rencontre à l'état sauvage qu'en Afrique, la loutre cendrée, quant à elle, n'est présente qu'en Asie. Une espèce disparue a vécu en Europe dont en France jusque dans le précédent interglaciaire.</p>
+                </div>
+
         </section>
 
         <section id="home-formulaire">
