@@ -4,7 +4,7 @@
 
         <section id="container">
             <div class="container">
-
+                <h1>Découvrez notre catalogue</h1>
             </div>
         </section>
 
@@ -46,7 +46,9 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="card card-body mb-3">
-                            <h3 class="h4">Les loutres à joues blanches du Cap</h3>
+                            <h3>Les loutres Aonyx</h3>
+                            <img src="public/images/aonyx.jpg" alt="Cette photo représente une loutre Aonyx"
+                                 height="159" width="258">
                             <p>Les loutres à joues blanches sont un genre de loutres de la famille des Mustélidés. Si la
                                 loutre du Cap ne se rencontre à l'état sauvage qu'en Afrique, la loutre cendrée, quant à
                                 elle, n'est présente qu'en Asie. Une espèce disparue a vécu en Europe dont en France
@@ -55,8 +57,9 @@
                     </div>
                     <div class="col-md-6">
                         <div class="card card-body mb-3">
-                            <h3 class="h4 mb-3">Les loutres cendrée</h3>
-                            <img src="public/images/loutre-cendrée" alt="Famille de loutres cendrées">
+                            <h3>Les loutres à joues blanches du Cap</h3>
+                            <img src="public/images/loutre-joue-blanche.jpg" alt="Cette photo montre une loutre cendrée"
+                                 height="130" width="258">
                             <p>La loutre cendrée est une espèce de loutres de la famille des Mustelidés. Aussi appelée
                                 loutre asiatique ou loutre naine d'Asie, cette loutre est menacée et considérée comme
                                 étant vulnérable à cause de la disparition rapide de son habitat</p>
@@ -67,8 +70,8 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="card card-body mb-3">
-                            <h3 class="h4">Les loutres cendrée</h3>
-                            <img src="public/images/loutre-home-page.png" alt="Famille de loutres cendrées">
+                            <h3 class="h4">Les loutres cendrées</h3>
+                            <img src="public/images/loutre-home-page.png" alt="Famille de loutres cendrées" height="160" width="250">
                             <p>La loutre cendrée est une espèce de loutres de la famille des Mustelidés. Aussi appelée
                                 loutre asiatique ou loutre naine d'Asie, cette loutre est menacée et considérée comme
                                 étant vulnérable à cause de la disparition rapide de son habitat</p>
@@ -76,11 +79,12 @@
                     </div>
                     <div class="col-md-6">
                         <div class="card card-body mb-3">
-                            <h3 class="h4">Les loutres à joues blanches du Cap</h3>
-                            <p>Les loutres à joues blanches sont un genre de loutres de la famille des Mustélidés. Si la
-                                loutre du Cap ne se rencontre à l'état sauvage qu'en Afrique, la loutre cendrée, quant à
-                                elle, n'est présente qu'en Asie. Une espèce disparue a vécu en Europe dont en France
-                                jusque dans le précédent interglaciaire.</p>
+                            <h3 class="h4">Les loutres géantes</h3>
+                            <img src="public/images/loutre-geante.jpg" alt="Photo représentant une loutre géante" height="160" width="250">
+                            <p>Les loutres ont de longs corps minces et des membres relativement courts, avec des pattes
+                                  palmées. La plupart ont des griffes acérées, et tous, sauf la loutre de mer ont de
+                                  longues queues. La taille varie selon les espèces, allant de 60 cm à 1,8 m de long
+                                  pour un poids de 1 à 45 kg.</p>
                         </div>
                     </div>
                 </div>
@@ -88,16 +92,17 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="card card-body mb-3">
-                            <h3 class="h4">Les loutres cendrée</h3>
-                            <img src="public/images/loutre-cendrée" alt="Famille de loutres cendrées">
-                            <p>La loutre cendrée est une espèce de loutres de la famille des Mustelidés. Aussi appelée
-                                loutre asiatique ou loutre naine d'Asie, cette loutre est menacée et considérée comme
-                                étant vulnérable à cause de la disparition rapide de son habitat</p>
+                            <h3>Les loutres géantes</h3>
+                            <img src="public/images/loutre-cendrée" alt="Photo représentant une loutre géante">
+                            <p>Les loutres ont de longs corps minces et des membres relativement courts, avec des pattes
+                                palmées. La plupart ont des griffes acérées, et tous, sauf la loutre de mer ont de
+                                longues queues. La taille varie selon les espèces, allant de 60 cm à 1,8 m de long pour
+                                un poids de 1 à 45 kg.</p>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="card card-body mb-3">
-                            <h3 class="h4">Les loutres cendrée</h3>
+                            <h3>Les loutres cendrée</h3>
                             <img src="public/images/loutre-cendrée" alt="Famille de loutres cendrées">
                             <p>La loutre cendrée est une espèce de loutres de la famille des Mustelidés. Aussi appelée
                                 loutre asiatique ou loutre naine d'Asie, cette loutre est menacée et considérée comme
@@ -110,45 +115,45 @@
         </section>
 
 
-        <section id="home-truc">
-        <div class="container">
+        <section id="home-catalogue">
+            <div class="container">
 
-            <div class="row">
+                <div class="row">
 
-                <div class="col-md-4">
-                    <div class="card mb-3">
-                        <div class="card-body">
-                            <h3>Venez découvrir leur refuge ! </h3>
-                            <a href="./refuge" class="btn btn-danger">Leur maison</a>
+                    <div class="col-md-4">
+                        <div class="card mb-3">
+                            <div class="card-body">
+                                <h3>Venez découvrir leur refuge ! </h3>
+                                <a href="./refuge" class="btn btn-primary">Leur maison !</a>
+                            </div>
                         </div>
                     </div>
-                </div>
 
-                <div class="col-md-4">
-                    <div class="card card-body mb-3">
-                        <form method="GET" action="./don">
-                            <h2 class="h3">Soutenez-les, soutenez-nous ! </h2>
-                            <button type="submit" class="btn btn-primary">
-                                Faites un don !
-                            </button>
-                        </form>
+                    <div class="col-md-4">
+                        <div class="card card-body mb-3">
+                            <form method="GET" action="./don">
+                                <h2 class="h3">Soutenez-les, soutenez-nous ! </h2>
+                                <button type="submit" class="btn btn-primary">
+                                    Faites un don !
+                                </button>
+                            </form>
+                        </div>
                     </div>
-                </div>
 
-                <div class="col-md-4">
-                    <div class="card card-body mb-3">
-                        <form method="GET" action="./conseils">
-                            <h2 class="h3">Venez découvrir les conseils pratiques ! </h2>
-                            <button type="submit" class="btn btn-primary" color="#red">
-                                Bien s'occuper de sa loutre !
-                            </button>
-                        </form>
+                    <div class="col-md-4">
+                        <div class="card card-body mb-3">
+                            <form method="GET" action="./conseils">
+                                <h2 class="h3">Venez découvrir les conseils pratiques ! </h2>
+                                <button type="submit" class="btn btn-primary">
+                                    Bien s'occuper de sa loutre !
+                                </button>
+                            </form>
+                        </div>
                     </div>
+
                 </div>
 
             </div>
-
-        </div>
         </section>
 
     </main>
