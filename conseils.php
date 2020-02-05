@@ -79,6 +79,8 @@
 
                         Si vous voulez tout savoir sur la Loutre de mer et contempler des photos de petits bébés loutres
                         de mer adorables, consultez l'article Loutre de mer : 10 choses à savoir de PlanèteAnimal !</p>
+                    <h2>Son habitat naturel</h2>
+                    <p></p>
                 </div>
             </div>
 
