@@ -2,6 +2,13 @@ footer {
   display: block;
   background-color: black;
 
+  footer {
+    display: block;
+    background-color: black; }
+  footer #sticky-footer {
+    -ms-flex-negative: 0;
+    flex-shrink: 0; }
+
   #sticky-footer {
     flex-shrink: 0;
   }
