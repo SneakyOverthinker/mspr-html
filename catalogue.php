@@ -1,11 +1,11 @@
 <?php require_once 'includes/header.php'; ?>
 
-    <main>
+    <main id="main">
 
-        <section id="container" >
-                            <div class="container">
+        <section id="container">
+            <div class="container">
 
-                           </div>
+            </div>
         </section>
 
         <section id="home-formulaire">
@@ -56,7 +56,7 @@
                     <div class="col-md-6">
                         <div class="card card-body mb-3">
                             <h3 class="h4 mb-3">Les loutres cendrée</h3>
-                            <img scr="../public/images/loutre-cendrée" alt="Famille de loutres cendrées">
+                            <img src="public/images/loutre-cendrée" alt="Famille de loutres cendrées">
                             <p>La loutre cendrée est une espèce de loutres de la famille des Mustelidés. Aussi appelée
                                 loutre asiatique ou loutre naine d'Asie, cette loutre est menacée et considérée comme
                                 étant vulnérable à cause de la disparition rapide de son habitat</p>
@@ -68,7 +68,7 @@
                     <div class="col-md-6">
                         <div class="card card-body mb-3">
                             <h3 class="h4">Les loutres cendrée</h3>
-                            <img scr="../public/images/loutre-cendrée" alt="Famille de loutres cendrées">
+                            <img src="public/images/loutre-home-page.png" alt="Famille de loutres cendrées">
                             <p>La loutre cendrée est une espèce de loutres de la famille des Mustelidés. Aussi appelée
                                 loutre asiatique ou loutre naine d'Asie, cette loutre est menacée et considérée comme
                                 étant vulnérable à cause de la disparition rapide de son habitat</p>
@@ -89,7 +89,7 @@
                     <div class="col-md-6">
                         <div class="card card-body mb-3">
                             <h3 class="h4">Les loutres cendrée</h3>
-                            <img scr="../public/images/loutre-cendrée" alt="Famille de loutres cendrées">
+                            <img src="public/images/loutre-cendrée" alt="Famille de loutres cendrées">
                             <p>La loutre cendrée est une espèce de loutres de la famille des Mustelidés. Aussi appelée
                                 loutre asiatique ou loutre naine d'Asie, cette loutre est menacée et considérée comme
                                 étant vulnérable à cause de la disparition rapide de son habitat</p>
@@ -98,7 +98,7 @@
                     <div class="col-md-6">
                         <div class="card card-body mb-3">
                             <h3 class="h4">Les loutres cendrée</h3>
-                            <img scr="../public/images/loutre-cendrée" alt="Famille de loutres cendrées">
+                            <img src="public/images/loutre-cendrée" alt="Famille de loutres cendrées">
                             <p>La loutre cendrée est une espèce de loutres de la famille des Mustelidés. Aussi appelée
                                 loutre asiatique ou loutre naine d'Asie, cette loutre est menacée et considérée comme
                                 étant vulnérable à cause de la disparition rapide de son habitat</p>
@@ -108,43 +108,47 @@
 
             </div>
         </section>
-<section>
-    <div class="col-md-6">
-        <div class="card card-body mb-3">
-            <form method="GET" action="./refuge">
-        <h2 class="h3">Venez découvrir leur refuge ! </h2>
-        <button type="submit" class="btn btn-primary" color="warning">
-            Leur maison
-        </button>
-            </form>
-        </div>
-    </div>
-</section>
-        <section>
+
+
+        <section id="home-truc">
+        <div class="container">
+
             <div class="row">
-            <div class="col-md-6">
-                <div class="card card-body mb-3">
-                    <form method="GET" action="./don">
-                    <h2 class="h3">Soutenez-les, soutenez-nous ! </h2>
-                    <button type="submit" class="btn btn-primary">
-                        Faites un don !
-                    </button>
-                    </form>
+
+                <div class="col-md-4">
+                    <div class="card mb-3">
+                        <div class="card-body">
+                            <h3>Venez découvrir leur refuge ! </h3>
+                            <a href="./refuge" class="btn btn-danger">Leur maison</a>
+                        </div>
+                    </div>
                 </div>
+
+                <div class="col-md-4">
+                    <div class="card card-body mb-3">
+                        <form method="GET" action="./don">
+                            <h2 class="h3">Soutenez-les, soutenez-nous ! </h2>
+                            <button type="submit" class="btn btn-primary">
+                                Faites un don !
+                            </button>
+                        </form>
+                    </div>
                 </div>
+
+                <div class="col-md-4">
+                    <div class="card card-body mb-3">
+                        <form method="GET" action="./conseils">
+                            <h2 class="h3">Venez découvrir les conseils pratiques ! </h2>
+                            <button type="submit" class="btn btn-primary" color="#red">
+                                Bien s'occuper de sa loutre !
+                            </button>
+                        </form>
+                    </div>
+                </div>
+
             </div>
-        </section>
-        <section>
-            <div class="col-md-6">
-                <div class="card card-body mb-3">
-                    <form method="GET" action="./conseils">
-                    <h2 class="h3">Venez découvrir les conseils pratiques ! </h2>
-                    <button type="submit" class="btn btn-primary" color="#red">
-                        Bien s'occuper de sa loutre !
-                    </button>
-                    </form>
-                </div>
-            </div>
+
+        </div>
         </section>
 
     </main>
