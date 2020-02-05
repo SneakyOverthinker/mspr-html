@@ -26,9 +26,15 @@
       text-decoration: none;
       color: inherit; }
 
-    #home-jumbotron{
-      background-image: url("../public/images/loutre-home-page");
+
+
+    #jumbotron{
+      background-image: url("../public/images/loutre-home-page") ;
+      padding: 10px 20px;
+      margin: 15px
     }
+
+
 
 footer {
   display: block;

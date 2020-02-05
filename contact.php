@@ -1,5 +1,12 @@
 <?php require_once 'includes/header.php'; ?>
 
+    <section id="jumbotron"
+             style=" background-image: url('https://static.lpnt.fr/images/2018/12/21/17792283lpw-17792282-article-jpg_5825528.jpg'); background-position: center center; background-size:cover; background-repeat: no-repeat; padding : 260px ">
+        <div class="container">
+            lorm ipsum
+        </div>
+    </section>
+    <!-- Main navigation -->
 
     <section id="contact">
 
@@ -91,6 +98,15 @@
         </div>
     </section>
 
+
+    <div style="position:relative; height:400px">
+        <div style="position:absolute;z-index:1">
+            <img src="images/greenhouse.jpg">
+        </div>
+        <div style="position:absolute;top:360px; width:600px; height:400px; z-index:2;font-size:200%">
+            <center><b>Ma maison...</b></center>
+        </div>
+    </div>
 
     <!--Section: Contact v.2-->
 
