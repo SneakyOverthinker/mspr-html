@@ -12,6 +12,21 @@
 
     <!--Main Layout-->
     <main>
+
+        <!-- Side navigation -->
+        <div class="sidenav">
+            <a href="#">Lorem ipsum dolor</a>
+            <a href="#">Vestibulum diam</a>
+            <a href="#">Nulla dapibus</a>
+            <a href="#">Etiam tristique</a>
+        </div>
+
+        <!-- Page content -->
+        <div class="main">
+            ...
+        </div>
+
+
         <div class="container">
             <!--Grid row-->
             <div class="row py-5">
