@@ -11,7 +11,6 @@
     </section>
     <!-- Main navigation -->
 
-
     <!--Main Layout-->
     <main>
         <div class="container">

@@ -46,7 +46,7 @@
                 <h2 class="h3 mb-3">Livret de <em>famille</em> de nos loutres</h2>
 
                 <div class="row">
-                    <div class="col">
+                    <div class="col-md-6">
                         <div class="card card-body mb-3">
                             <h3 class="h4">Les loutres à joues blanches du Cap</h3>
                             <p>Les loutres à joues blanches sont un genre de loutres de la famille des Mustélidés. Si la
@@ -55,7 +55,7 @@
                                 jusque dans le précédent interglaciaire.</p>
                         </div>
                     </div>
-                    <div class="col">
+                    <div class="col-md-6">
                         <div class="card card-body mb-3">
                             <h3 class="h4">Les loutres cendrée</h3>
                             <img scr="../public/images/loutre-cendrée" alt="Famille de loutres cendrées">
@@ -67,7 +67,7 @@
                 </div>
 
                 <div class="row">
-                    <div class="col">
+                    <div class="col-md-6">
                         <div class="card card-body mb-3">
                             <h3 class="h4">Les loutres cendrée</h3>
                             <img scr="../public/images/loutre-cendrée" alt="Famille de loutres cendrées">
@@ -76,7 +76,7 @@
                                 étant vulnérable à cause de la disparition rapide de son habitat</p>
                         </div>
                     </div>
-                    <div class="col">
+                    <div class="col-md-6">
                         <div class="card card-body mb-3">
                             <h3 class="h4">Les loutres à joues blanches du Cap</h3>
                             <p>Les loutres à joues blanches sont un genre de loutres de la famille des Mustélidés. Si la
@@ -88,7 +88,7 @@
                 </div>
 
                 <div class="row">
-                    <div class="col">
+                    <div class="col-md-6">
                         <div class="card card-body mb-3">
                             <h3 class="h4">Les loutres cendrée</h3>
                             <img scr="../public/images/loutre-cendrée" alt="Famille de loutres cendrées">
@@ -97,7 +97,7 @@
                                 étant vulnérable à cause de la disparition rapide de son habitat</p>
                         </div>
                     </div>
-                    <div class="col">
+                    <div class="col-md-6">
                         <div class="card card-body mb-3">
                             <h3 class="h4">Les loutres cendrée</h3>
                             <img scr="../public/images/loutre-cendrée" alt="Famille de loutres cendrées">
