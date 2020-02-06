@@ -66,23 +66,20 @@
                     </div>
                     <div class="col-md-4">
 
-                        <div class="card card-body mb-3">
-                            <div class="cta-inner text-center rounded">
-                                <h3>Manuel</h3>
-                                <img src="public/images/loutre-home-page.png"
-                                     alt="Famille de loutres cendrées" height="160" width="250"
-                                     align="center">
-                                <p>La loutre cendrée est une espèce de loutres de la famille des
-                                    Mustelidés.
-                                    Aussi appelée
-                                    loutre asiatique ou loutre naine d'Asie, cette loutre est menacée et
-                                    considérée comme
-                                    étant vulnérable à cause de la disparition rapide de son habitat</p>
-                                <a href="./contact.php" class="btn btn-primary">Venez le rencontrer :)</a>
+
+                        <div class="card mb-3">
+                            <img class="card-img-top" src="public/images/loutre-joue-blanche.jpg"
+                                 alt="Cette photo représente la loutre Manuel">
+                            <div class="card-body">
+                                <h5 class="card-title">Manuel</h5>
+                                Manuel est une devenu une loutre et oui grosse histoire vous savez le concernant vous n'êtes pas prêt il a une histoire incroyable. Ce vieux mâle
+                                déconfi, ce genre d'embrouille que seul Manu peut comprendre avec ses congénères. Manu l'embrouille n'a jamais su se fondre dans son environnement.</p>
+                                <a href="./contact.php" class="btn btn-primary">Venez le rencontrer ;)</a>
                             </div>
                         </div>
 
                     </div>
+
                     <div class="col-md-4">
 
                         <div class="card card-body mb-3">
