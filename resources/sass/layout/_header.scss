@@ -3,6 +3,15 @@
   width: 100%;
   background-color: rgba(255, 255, 255, 0.5);
   z-index: 9999;
+  box-shadow: 0 -1px 10px 0 rgba(0, 0, 0, 0.2);
+  background-color: #fff;
+
+  .site-brand {
+    text-decoration: none;
+    font-size: 35px;
+    margin-right: 20px;
+    color: blueviolet
+  }
 
   .navbar {
 
@@ -25,18 +34,4 @@
       }
     }
   }
-}
-
-#header {
-
-  width: 100%;
-  padding: 20px;
-  box-shadow: 0 -1px 10px 0 rgba(0, 0, 0, 0.2);
-  background-color: #fff;
-}
-#header .sitebrand{
-  text-decoration: none;
-  font-size: 35px;
-  margin-right: 20px;
-  color: blueviolet
 }
