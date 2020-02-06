@@ -3,7 +3,7 @@
     <main id="main">
 
         <section id="container">
-            <div class="container">
+            <div class="container py-5">
                 <h1>Découvrez notre catalogue</h1>
             </div>
         </section>
@@ -11,41 +11,44 @@
         <section id="home-formulaire">
             <div class="container py-5">
                 <div class="row">
+                    <div class="block-align: center">
+                        <form method="GET" action="./loutre">
+                            <h2 class="h3"> Trouvez la loutre qui <strong>vous</strong> convient</h2>
 
-                <form method="GET" action="./loutre">
-                    <h2 class="h3"> Trouvez la loutre qui <strong>vous</strong> convient</h2>
+                            <div class="form-group">
+                                <select id="species" name="species" class="custom-select">
+                                    <option selected disabled>Toutes les espèces</option>
+                                    <option value="1">Aonyx</option>
+                                    <option value="2">Enhydra</option>
+                                    <option value="3">Lutra</option>
+                                </select>
+                            </div>
 
-                    <div class="form-group">
-                        <select id="species" name="species" class="custom-select">
-                            <option selected disabled>Toutes les espèces</option>
-                            <option value="1">Aonyx</option>
-                            <option value="2">Enhydra</option>
-                            <option value="3">Lutra</option>
-                        </select>
+                            <div class="form-group">
+                                <select id="ages" name="Ages" class="custom-select">
+                                    <option selected disabled>Tous les âges</option>
+                                    <option value="1">Bébés</option>
+                                    <option value="2">Junior</option>
+                                    <option value="3">Adulte</option>
+                                    <option value="4">Sénior</option>
+                                </select>
+                            </div>
+
+                            <button type="submit" class="btn btn-primary">
+                                Cherchez votre loutre !
+                            </button>
+                        </form>
                     </div>
-
-                    <div class="form-group">
-                        <select id="ages" name="Ages" class="custom-select">
-                            <option selected disabled>Tous les âges</option>
-                            <option value="1">Bébés</option>
-                            <option value="2">Junior</option>
-                            <option value="3">Adulte</option>
-                            <option value="4">Sénior</option>
-                        </select>
-                    </div>
-
-                    <button type="submit" class="btn btn-primary">
-                        Cherchez votre loutre !
-                    </button>
-                </form>
-            </div>
+                </div>
             </div>
         </section>
 
         <section id="home-catalogue">
-            <div class="container">
-                <h2 class="h3 mb-3">Livret de <em>famille</em> de nos loutres</h2>
-
+            <div class="container py-5">
+                <div class="text-align: center">
+                    <h2 class="h3 mb-3">Les variétés de Loutres</h2>
+                </div>
+                <div class="container py-5">
                 <div class="row">
                     <div class="col-md-6">
                         <div class="card card-body mb-3">
@@ -53,9 +56,10 @@
                             <img src="public/images/aonyx.jpg" alt="Cette photo représente une loutre Aonyx"
                                  height="159" width="258">
                             <p>Les loutres à joues blanches sont un genre de loutres de la famille des Mustélidés. Si la
-                               loutre du Cap ne se rencontre à l'état sauvage qu'en Afrique, la loutre cendrée, quant à
-                            elle, n'est présente qu'en Asie. Une espèce disparue a vécu en Europe dont en France jusque
-                            dans le précédent interglaciaire</p>
+                                loutre du Cap ne se rencontre à l'état sauvage qu'en Afrique, la loutre cendrée, quant à
+                                elle, n'est présente qu'en Asie. Une espèce disparue a vécu en Europe dont en France
+                                jusque
+                                dans le précédent interglaciaire</p>
                         </div>
                     </div>
                     <div class="col-md-6">
@@ -71,7 +75,36 @@
                         </div>
                     </div>
                 </div>
+                </div>
+                <div class="row">
+                    <div class="card mb-6">
+                        <img class="card-img-top" src="public/images/loutre-joue-blanche.jpg"
+                             alt="Cette photo montre une loutre cendrée">
+                        <div class="card-body">
+                            <h5 class="card-title">Mickey</h5>
+                            <p>MLes loutres à joues blanches sont un genre de loutres de la famille des Mustélidés. Si
+                                la
+                                loutre du Cap ne se rencontre à l'état sauvage qu'en Afrique, la loutre cendrée, quant à
+                                elle, n'est présente qu'en Asie. Une espèce disparue a vécu en Europe dont en France
+                                jusque dans le précédent interglaciaire.</p>
+                            <a href="./contact.php" class="btn btn-primary">Venez le rencontrer !</a>
+                        </div>
+                    </div>
 
+                    <div class="card mb-3">
+                        <img class="card-img-top" src="public/images/loutre-joue-blanche.jpg"
+                             alt="Cette photo montre une loutre cendrée">
+                        <div class="card-body">
+                            <h5 class="card-title">Mickey</h5>
+                            <p>MLes loutres à joues blanches sont un genre de loutres de la famille des Mustélidés. Si
+                                la
+                                loutre du Cap ne se rencontre à l'état sauvage qu'en Afrique, la loutre cendrée, quant à
+                                elle, n'est présente qu'en Asie. Une espèce disparue a vécu en Europe dont en France
+                                jusque dans le précédent interglaciaire.</p>
+                            <a href="./contact.php" class="btn btn-primary">Venez le rencontrer !</a>
+                        </div>
+                    </div>
+                </div>
                 <div class="row">
                     <div class="col-md-6">
                         <div class="card card-body mb-3">
@@ -143,7 +176,8 @@
                     <div class="card">
                         <div class="card-body">
                             <h5 class="card-title">Special title treatment</h5>
-                            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                            <p class="card-text">With supporting text below as a natural lead-in to additional
+                                content.</p>
                             <a href="#" class="btn btn-primary">Go somewhere</a>
                         </div>
                     </div>
@@ -152,7 +186,8 @@
                     <div class="card">
                         <div class="card-body">
                             <h5 class="card-title">Special title treatment</h5>
-                            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                            <p class="card-text">With supporting text below as a natural lead-in to additional
+                                content.</p>
                             <a href="#" class="btn btn-primary">Go somewhere</a>
                         </div>
                     </div>
