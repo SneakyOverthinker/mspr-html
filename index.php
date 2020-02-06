@@ -13,7 +13,7 @@
 
     <!--Main Layout-->
     <main id="main">
-        <div class="container">
+               <section class="container">
 
                         <span>
                             bla bla bla
@@ -27,6 +27,7 @@
             <div class="container">
                 stuff stuff stuff
             </div>
+               </section>
         <div class="container">
             <!--Grid row-->
             <div class="row py-5">
@@ -73,12 +74,35 @@
             <h5 class="card-title"></h5>
             <p class="card-text">Joueuses et affectueuses, ces loutres recherchent un foyer.</p>
             <p class="card-text">Venez les rencontrer !</p>
+            <button type="button" class="btn btn-primary">Primary</button>
+
         </div>
     </div>
+
+
+
+<div class="container">
+    <br>
+    <div class="row">
+        <div class="col-md-3">
+
+        </div>
+        <div class="col-md-3">
+            h
+        </div>
+        <div class="col-md-3">
+            h
+        </div>
+        <div class="col-md-3">
+            h
+        </div>
+    </div>
+</div>
+
+
 </section>
 
-<section id="main"></section>
-    </div>
+
 
     <!--Main Layout-->
 
