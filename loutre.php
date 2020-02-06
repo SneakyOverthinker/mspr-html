@@ -4,7 +4,9 @@
 
         <section id="loutre-jumbotron">
             <div class="container">
-                <h1 class="h3">Livret de <em>famille</em> de nos loutres</h1>
+                <div style="text-align: center">
+                    <h1 class="h3">Livret de <em>famille</em> de nos loutres</h1>
+                </div>
             </div>
         </section>
 
@@ -43,7 +45,7 @@
                                 de la famille des
                                 Mustelidés. Aussi appelée loutre asiatique ou loutre naine d'Asie, cette loutre est
                                 menacée et
-                                considérée comme étant vulnérable à cause de la disparition rapide de son habitat</p>
+                                considérée comme étant vulnérable à cause de la disparition rapide de son habitat Tu étais si belle Christina et tu es devenu Christiana.</p>
                                 <a href="./contact.php" class="btn btn-primary">Venez le rencontrer !</a>
                             </div>
                         </div>
@@ -75,15 +77,11 @@
                             <div class="card-body">
                                 <h5 class="card-title">Fagy</h5>
                                 Les loutres ont de longs corps minces et des membres relativement
-                                courts,
-                                avec des pattes
-                                palmées. La plupart ont des griffes acérées, et tous, sauf la loutre
-                                de mer
-                                ont de
-                                longues queues. La taille varie selon les espèces, allant de 60 cm à
-                                1,8 m
-                                de long pour un poids de 1 à 45 kg.Force à toi Fagy t'as un nom de merde.</p>
-                                <a href="./contact.php" class="btn btn-primary">Venez le rencontrer ;)</a>
+                                courts, avec des pattes palmées. La plupart ont des griffes acérées, et tous, sauf la
+                                loutre
+                                de mer ont de longues queues. La taille varie selon les espèces, allant de 60 cm à
+                                1,8 m de long pour un poids de 1 à 45 kg.Force à toi Fagy t'as un nom de merde.</p>
+                                <a href="./contact.php" class="btn btn-primary">Venez la rencontrer !</a>
                             </div>
                         </div>
 
@@ -100,7 +98,7 @@
                                 ta vie. Il aime jouer et mordre parce que comme toutes les loutres il n'est pas fait
                                 pour être adopté et ça vous vous en foutez parce que pour votre plaisir personnel vous
                                 allez quand même l'adopter et pleurer parce qu'il vous mordra. </p>
-                                <a href="./contact.php" class="btn btn-primary">Venez le rencontrer ;)</a>
+                                <a href="./contact.php" class="btn btn-primary">Venez le rencontrer !</a>
                             </div>
                         </div>
 
@@ -114,11 +112,12 @@
                             <div class="card-body">
                                 <h5 class="card-title">Léna</h5>
                                 <p>Léna c'est la fille de Manuel. Il a tenté de la dévorer lorsqu'elle était petite et
-                                    depuis cette tristesse sur son visage est quotidienne. C''est vrai c'est pas facile
-                                    de vivre avec l'idée que ton père t'a abandonné et quand il est revenu c'était pour
-                                    te boufer ça laisse des traces sales et sequelles séches des beaux que nous ne
-                                    comprendriez même pas ! Ce genre de lifestyle Léna Force à toi ! </p>
-                                <a href="./contact.php" class="btn btn-primary">Venez la rencontrer ;)</a>
+                                    depuis cette tristesse sur son visage est quotidienne. C''est vrai, ce n'est pas
+                                    simple de rebondir
+                                    ça laisse des traces sales et
+                                    sequelles séches que vous ne comprendriez même pas ! Ce genre de lifestyle Léna
+                                    Force à toi ! </p>
+                                <a href="./contact.php" class="btn btn-primary">Venez la rencontrer !</a>
                             </div>
                         </div>
                     </div>
@@ -133,8 +132,8 @@
                     <div class="cta-inner text-center rounded">
                         <div style="align-content: center">
                             <h3>La nouvelle portée</h3>
-                            <img src="public/images/la-nouvelle-portee.jpg"
-                                 alt="Photo de la dernière portée" height="150" width="250">
+                            <img src="../public/images/bébou.jpg"
+                                 alt="Photo de la dernière portée">
                             <p>Et voici Coban, Igan Zoran et Eléa sont les petits du vicieux Manuel. Il les a fait avec
                                 Pauline mais Pauline est morte en donnant naissance à ses petits. Manuel n'a pas assumé
                                 cela lui fait peur. Alors il les a abandonnés et maintenant c'est à vous de les sauver.
