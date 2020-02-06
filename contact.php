@@ -11,8 +11,8 @@
     <!-- Main navigation -->
 
 <section class="container">
-    <div class="card card body">
-    <section id="contact">
+    <div class="card card-body">
+    <div>
 
         <div class="container">
             <!--Section: Contact v.2-->
@@ -95,8 +95,12 @@
                     <!--Grid column-->
 
                 </div>
-        </div></div>
-    </section></section>
+        </div>
+    </div>
+    </div>
+    </section>
+
+
 
 
 
