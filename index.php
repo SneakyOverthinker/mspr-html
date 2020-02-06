@@ -31,32 +31,55 @@
             <!--Grid row-->
             <div class="row py-5">
                 <!--Grid column-->
-
-
-                <div class="col-md-6 text-center">
-                    <div class="card card-body">
-
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                        laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-                        voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-                        non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <div class="card-deck">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et pellentesque
+                                est, eget auctor nulla. Maecenas pretium metus sed urna iaculis, in egestas velit viverra. Praesent
+                                faucibus enim eget nulla suscipit blandit. In hac habitasse platea dictumst. Nulla suscipit nisl eu
+                                nibh iaculis tristique. Mauris gravida, turpis id congue cursus, metus lacus egestas velit, id convallis
+                                lorem quam vitae orci. Curabitur vulputate ex mi, sit amet laoreet mauris lacinia non. Mauris vel
+                                tincidunt eros, sit amet imperdiet ipsum. </p>
+                            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                            <button type="button" class="btn btn-primary">Primary</button>
+                        </div>
                     </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="card card-body">
-
-                        <div class="card">
-                        <img src="public/images/loutreindex.png">
-
-
+                    <div class="card">
+                        <img src="public/images/loutreindex.png" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+                            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                            <button type="button" class="btn btn-primary">Primary</button>
+                        </div>
                     </div>
+
                 </div>
+
+
                 <!--Grid column-->
             </div>
+
+
             <!--Grid row-->
-        </div>
+
     </main>
+
+<section id="home-bg">
+    <div class="card bg-dark text-white">
+        <img src="public/images/loutrons.jpg" class="card-img" alt="loutre">
+        <div class="card-img-overlay">
+            <h5 class="card-title"></h5>
+            <p class="card-text">Joueuses et affectueuses, ces loutres recherchent un foyer.</p>
+            <p class="card-text">Venez les rencontrer !</p>
+        </div>
+    </div>
+</section>
+
+<section id="main"></section>
+    </div>
+
     <!--Main Layout-->
 
 <?php require_once 'includes/footer.php'; ?>
