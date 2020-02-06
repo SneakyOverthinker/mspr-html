@@ -107,7 +107,7 @@
                     <div class="col-md-4">
                         <div class="card mb-3">
                             <div class="card-body">
-                                <h3>Venez découvrir leur refuge ! </h3>
+                                <h3>Venez découvrir leur refuges ! </h3>
                                 <a href="./refuge" class="btn btn-primary">Leur maison !</a>
                             </div>
                         </div>
