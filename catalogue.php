@@ -77,7 +77,7 @@
                 </div>
                 </div>
                 <div class="row">
-                    <div class="card mb-3">
+                    <div class="card mb-6">
                         <img class="card-img-top" src="public/images/loutre-joue-blanche.jpg"
                              alt="Cette photo montre une loutre cendrée">
                         <div class="card-body">
