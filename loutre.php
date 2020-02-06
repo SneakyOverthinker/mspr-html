@@ -68,7 +68,7 @@
 
 
                         <div class="card mb-3">
-                            <img class="card-img-top" src="public/images/loutre-joue-blanche.jpg"
+                            <img class="card-img-top" src="public/images/manuel.jpg"
                                  alt="Cette photo représente la loutre Manuel">
                             <div class="card-body">
                                 <h5 class="card-title">Manuel</h5>
