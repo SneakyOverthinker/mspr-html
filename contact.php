@@ -10,7 +10,8 @@
     </section>
     <!-- Main navigation -->
 
-
+<section class="container">
+    <div class="card card body">
     <section id="contact">
 
         <div class="container">
@@ -48,7 +49,6 @@
                                     </div>
                                 </div>
                                 <!--Grid column-->
-
                             </div>
                             <!--Grid row-->
 
@@ -95,8 +95,8 @@
                     <!--Grid column-->
 
                 </div>
-        </div>
-    </section>
+        </div></div>
+    </section></section>
 
 
 
