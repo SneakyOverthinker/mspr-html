@@ -3,7 +3,7 @@
     <main id="main">
 
         <section id="catalogue-jumbotron"
-                 style="background-image: url('https://www.sciencesetavenir.fr/assets/img/2019/08/27/cover-r4x3w1000-5d64fde6d1355-sipa-00864680-000003.jpg')">
+                 style="background-image: url('https://ekladata.com/-Ke4YkxFJ3nGyg4DyKElTP44VXo.png');  background-repeat: no-repeat; background-position: center center; background-size: cover; padding: 220px">
             <!-- Full Page Intro -->
             <div class="container">
                 <!--Grid row-->
@@ -47,6 +47,33 @@
             </div>
         </section>
 
+        <section id="loutre-catalogue">
+            <div class="container">
+
+                <div class="row">
+                    <div class="col-md-4">
+
+                        <!-- super card -->
+                        <div class="card mb-3">
+                            <img class="card-img-top" src="public/images/Mickey.jpg"
+                                 alt="Cette photo représente la loutre Mickey">
+                            <div class="card-body">
+                                <h5 class="card-title">La loutre Aonyx</h5>
+                                <p>Les loutres à joues blanches sont un genre de loutres de la famille des Mustélidés.
+                                    Si la
+                                    loutre du Cap ne se rencontre à l'état sauvage qu'en Afrique, la loutre cendrée,
+                                    quant à
+                                    elle, n'est présente qu'en Asie. Une espèce disparue a vécu en Europe dont en France
+                                    jusque
+                                    dans le précédent interglaciaire</p>
+                                <a href="./contact.php" class="btn btn-primary">Venez le rencontrer !</a>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </section>
         <section id="home-catalogue">
             <div class="container py-5">
                 <div class="text-align: center">
@@ -87,30 +114,30 @@
                 </div>
 
 
-                </div>
-                <div class="row">
-                    <div class="col-md-6">
-                        <div class="card card-body mb-3">
-                            <h3 class="h4">Les loutres cendrées</h3>
-                            <img src="public/images/loutre-home-page.png" alt="Famille de loutres cendrées" height="160"
-                                 width="250">
-                            <p>La loutre cendrée est une espèce de loutres de la famille des Mustelidés. Aussi appelée
-                                loutre asiatique ou loutre naine d'Asie, cette loutre est menacée et considérée comme
-                                étant vulnérable à cause de la disparition rapide de son habitat</p>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="card card-body mb-3">
-                            <h3 class="h4">Les loutres géantes</h3>
-                            <img src="public/images/loutre-geante.jpg" alt="Photo représentant une loutre géante"
-                                 height="160" width="250">
-                            <p>Les loutres ont de longs corps minces et des membres relativement courts, avec des pattes
-                                palmées. La plupart ont des griffes acérées, et tous, sauf la loutre de mer ont de
-                                longues queues. La taille varie selon les espèces, allant de 60 cm à 1,8 m de long
-                                pour un poids de 1 à 45 kg.</p>
-                        </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="card card-body mb-3">
+                        <h3 class="h4">Les loutres cendrées</h3>
+                        <img src="public/images/loutre-home-page.png" alt="Famille de loutres cendrées" height="160"
+                             width="250">
+                        <p>La loutre cendrée est une espèce de loutres de la famille des Mustelidés. Aussi appelée
+                            loutre asiatique ou loutre naine d'Asie, cette loutre est menacée et considérée comme
+                            étant vulnérable à cause de la disparition rapide de son habitat</p>
                     </div>
                 </div>
+                <div class="col-md-6">
+                    <div class="card card-body mb-3">
+                        <h3 class="h4">Les loutres géantes</h3>
+                        <img src="public/images/loutre-geante.jpg" alt="Photo représentant une loutre géante"
+                             height="160" width="250">
+                        <p>Les loutres ont de longs corps minces et des membres relativement courts, avec des pattes
+                            palmées. La plupart ont des griffes acérées, et tous, sauf la loutre de mer ont de
+                            longues queues. La taille varie selon les espèces, allant de 60 cm à 1,8 m de long
+                            pour un poids de 1 à 45 kg.</p>
+                    </div>
+                </div>
+            </div>
             </div>
         </section>
 
@@ -172,6 +199,30 @@
                             <p class="card-text">With supporting text below as a natural lead-in to additional
                                 content.</p>
                             <a href="#" class="btn btn-primary">Go somewhere</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="loutre-catalogue">
+            <div class="container">
+
+                <div class="row">
+                    <div class="col-md-4">
+
+                        <!-- super card -->
+                        <div class="card mb-3">
+                            <img class="card-img-top" src="public/images/Mickey.jpg"
+                                 alt="Cette photo représente la loutre Mickey">
+                            <div class="card-body">
+                                <h5 class="card-title">Mickey</h5>
+                                <p>Mickey est une loutre qui joue tout le temps. Il est une loutre de la famille
+                                    des Mustélidés. Si la loutre du Cap ne se rencontre à l'état sauvage qu'en
+                                    Afrique, la loutre cendrée, quant à elle, n'est présente qu'en Asie. Une espèce
+                                    disparue a vécu en Europe dont en France jusque dans le précédent
+                                    interglaciaire.</p>
+                                <a href="./contact.php" class="btn btn-primary">Venez le rencontrer !</a>
+                            </div>
                         </div>
                     </div>
                 </div>
