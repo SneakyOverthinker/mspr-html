@@ -25,9 +25,7 @@
 
             <section id="main">
                 <div class="container">
-                    <div class="container">
 
-                    </div>
 
                     <div class="row">
                         <div class="col-md-6">
@@ -51,6 +49,9 @@
 
                         </div>
                     </div>
+                </div>
+                <div class="container">
+                    <button type="button" class="btn btn-primary">Découvrir le </button>
                 </div>
             </section>
 
