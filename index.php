@@ -33,15 +33,12 @@
                                 Association OTTERS
                             </h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et pellentesque
-                                est, eget auctor nulla. Maecenas pretium metus sed urna iaculis, in egestas velit viverra.
-                                Praesent
-                                faucibus enim eget nulla suscipit blandit. In hac habitasse platea dictumst. Nulla suscipit
-                                nisl eu
-                                nibh iaculis tristique. Mauris gravida, turpis id congue cursus, metus lacus egestas velit,
-                                id convallis
-                                lorem quam vitae orci. Curabitur vulputate ex mi, sit amet laoreet mauris lacinia non.
-                                Mauris vel
-                                tincidunt eros, sit amet imperdiet ipsum.</p>
+                                est, eget auctor nulla. Maecenas pretium metus sed urna iaculis, in egestas
+                                velit viverra. Praesent faucibus enim eget nulla suscipit blandit.
+                                In hac habitasse platea dictumst. Nulla suscipit nisl eu nibh iaculis tristique.
+                                Mauris gravida, turpis id congue cursus, metus lacus egestas velit, id convallis
+                                lorem quam vitae orci. Curabitur vulputate ex mi, sit amet laoreet mauris lacinia
+                                non. Mauris vel tincidunt eros, sit amet imperdiet ipsum.</p>
                             <button type="button" class="btn btn-primary">Notre équipe</button>
                         </div>
                         <div class="col-md-6" style="justify-content: center; display: flex">
@@ -50,10 +47,16 @@
                         </div>
                     </div>
                 </div>
-                <div class="container">
-                    <button type="button" class="btn btn-primary">Découvrir le </button>
-                </div>
+
             </section>
+
+        <section id="container" style="padding-top: 100px; align-items: center; display: flex; margin-left: 690px">
+            <div class="container">
+                <button type="button" class="btn btn-primary">Découvrir le refuge</button>
+            </div>
+        </section>
+
+
 
 
             <!--Grid row-->
