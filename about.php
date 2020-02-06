@@ -4,7 +4,7 @@
              style=" background-image: url('https://zupimages.net/up/20/06/qmu4.jpg'); background-repeat: no-repeat; background-position: center center; background-size: cover; padding: 220px">
         <div class="container">
             <!--Grid row-->
-            <h1 class="display-4 text-white">Ma page</h1>
+            <h1 class="display-4 text-white">A propos</h1>
             <!--Grid row-->
         </div>
     </section>
@@ -14,9 +14,9 @@
             <div class="row">
                 <div class="col-md-3">
                     <nav class="nav nav-pills nav-justified flex-column">
-                        <a class="nav-link active" href="#">Faîtes un don</a>
-                        <a class="nav-link" href="#">Adoptez une loutre</a>
-                        <a class="nav-link" href="#">Contactez-nous</a>
+                        <a class="nav-link active" href="http://localhost/mspr-html/don">Faîtes un don</a>
+                        <a class="nav-link" href="http://localhost/mspr-html/catalogue">Adoptez une loutre</a>
+                        <a class="nav-link" href="http://localhost/mspr-html/contact">Contactez-nous</a>
                     </nav>
                 </div>
                 <div class="col-md-9">
