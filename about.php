@@ -1,9 +1,11 @@
 <?php require_once 'includes/header.php'; ?>
 
-    <section id="about-jumbotron"
-             style="background-image: url('https://www.biotropica.fr/biotropica-content/uploads/2018/02/loutre-5.jpg'); background-repeat: no-repeat; background-position: center center; background-size: cover; padding: 220px">
+    <section id="contact-jumbotron"
+             style=" background-image: url('https://zupimages.net/up/20/06/qmu4.jpg'); background-repeat: no-repeat; background-position: center center; background-size: cover; padding: 220px">
         <div class="container">
-            <h1 class="display-4 text-white">A propos de nous</h1>
+            <!--Grid row-->
+            <h1 class="display-4 text-white">Ma page</h1>
+            <!--Grid row-->
         </div>
     </section>
 
