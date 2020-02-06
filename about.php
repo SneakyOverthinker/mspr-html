@@ -5,7 +5,7 @@
         <!-- Full Page Intro -->
         <div class="container">
             <!--Grid row-->
-            <h1 class="display-4 text-white">Ma page</h1>
+            <h1 class="display-4 text-white">A propos de nous</h1>
             <!--Grid row-->
         </div>
     </section>
@@ -35,7 +35,6 @@
                         <div class="card-body">
                             <h5 class="card-title">Rebecca</h5>
                             <p class="card-text">Amie des loutres.</p>
-                            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
                         </div>
                     </div>
                     <div class="card">
@@ -43,7 +42,6 @@
                         <div class="card-body">
                             <h5 class="card-title">Tami</h5>
                             <p class="card-text">Trouve les loutres blessées et les remets sur pattes.</p>
-                            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
                         </div>
                     </div>
                     <div class="card">
@@ -51,7 +49,6 @@
                         <div class="card-body">
                             <h5 class="card-title">Angie</h5>
                             <p class="card-text">Famille d'accueil des loutres, elle a sauvé Manuel qui est maintenant disponible à l'adoption.</p>
-                            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
                         </div>
                     </div>
                 </div>
