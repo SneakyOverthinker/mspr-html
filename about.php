@@ -57,7 +57,7 @@
                     </ol>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="public/images/loutre1" class="d-block w-100" alt="...">
+                            <img src="public/images/loutre5" class="d-block w-100" alt="...">
                         </div>
                         <div class="carousel-item">
                             <img src="public/images/loutre2" class="d-block w-100" alt="...">
