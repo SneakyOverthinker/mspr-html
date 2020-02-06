@@ -15,22 +15,22 @@
     <main id="main">
         <section class="pond">
             <div class="container-fluid px-5">
-                <span>bla bla bla</span>
+                <span>Offrez leur une nouvelle vie</span>
                 <h1>Otters</h1>
-                <span>stuff stuff stuff</span>
+                <div class="container-fluid px-5">
+                <span>Elles n'attendent que vous !</span>
+                </div>
             </div>
         </section>
 
             <section id="main">
                 <div class="container">
-                    <div class="container">
 
-                    </div>
 
                     <div class="row">
                         <div class="col-md-6">
                             <h2>
-                                La vérité sur les loutres
+                                Association OTTERS
                             </h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et pellentesque
                                 est, eget auctor nulla. Maecenas pretium metus sed urna iaculis, in egestas velit viverra.
@@ -42,13 +42,16 @@
                                 lorem quam vitae orci. Curabitur vulputate ex mi, sit amet laoreet mauris lacinia non.
                                 Mauris vel
                                 tincidunt eros, sit amet imperdiet ipsum.</p>
-                            <button type="button" class="btn btn-primary">Les loutres</button>
+                            <button type="button" class="btn btn-primary">Notre équipe</button>
                         </div>
                         <div class="col-md-6" style="justify-content: center; display: flex">
                             <img src="public/images/group-otters.png">
 
                         </div>
                     </div>
+                </div>
+                <div class="container">
+                    <button type="button" class="btn btn-primary">Découvrir le </button>
                 </div>
             </section>
 
@@ -75,7 +78,7 @@
                 <div class="card-deck">
                     <div class="card">
                         <div class="card-body">
-                            <h5 class="card-title">L'association OTTER</h5>
+                            <h5 class="card-title">La vérité sur les loutres</h5>
                             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et
                                 pellentesque
                                 est, eget auctor nulla. Maecenas pretium metus sed urna iaculis, in egestas velit
@@ -95,11 +98,11 @@
                     <div class="card">
                         <img src="public/images/loutreindex.png" class="card-img-top" alt="loutre">
                         <div class="card-body">
-                            <h5 class="card-title">Leur refuge</h5>
+                            <h5 class="card-title">Nos loutres</h5>
                             <p class="card-text">This card has supporting text below as a natural lead-in to additional
                                 content.</p>
                             <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-                            <button type="button" class="btn btn-primary">Visiter</button>
+                            <button type="button" class="btn btn-primary">Les découvrir</button>
                         </div>
                     </div>
 
