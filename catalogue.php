@@ -2,9 +2,13 @@
 
     <main id="main">
 
-        <section id="container">
-            <div class="container py-5">
-                <h1>Découvrez notre catalogue</h1>
+        <section id="catalogue-jumbotron"
+                 style="background-image: url('https://www.sciencesetavenir.fr/assets/img/2019/08/27/cover-r4x3w1000-5d64fde6d1355-sipa-00864680-000003.jpg')">
+            <!-- Full Page Intro -->
+            <div class="container">
+                <!--Grid row-->
+                <h1 class="display-4 text-white">Découvrez notre catalogue</h1>
+                <!--Grid row-->
             </div>
         </section>
 
@@ -49,61 +53,40 @@
                     <h2 class="h3 mb-3">Les variétés de Loutres</h2>
                 </div>
                 <div class="container py-5">
-                <div class="row">
-                    <div class="col-md-6">
-                        <div class="card card-body mb-3">
-                            <h3>Les loutres Aonyx</h3>
-                            <img src="public/images/aonyx.jpg" alt="Cette photo représente une loutre Aonyx"
-                                 height="159" width="258">
-                            <p>Les loutres à joues blanches sont un genre de loutres de la famille des Mustélidés. Si la
-                                loutre du Cap ne se rencontre à l'état sauvage qu'en Afrique, la loutre cendrée, quant à
-                                elle, n'est présente qu'en Asie. Une espèce disparue a vécu en Europe dont en France
-                                jusque
-                                dans le précédent interglaciaire</p>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="card card-body mb-3">
+                                <h3>Les loutres Aonyx</h3>
+                                <img src="public/images/aonyx.jpg" alt="Cette photo représente une loutre Aonyx"
+                                     height="159" width="258">
+                                <p>Les loutres à joues blanches sont un genre de loutres de la famille des Mustélidés.
+                                    Si la
+                                    loutre du Cap ne se rencontre à l'état sauvage qu'en Afrique, la loutre cendrée,
+                                    quant à
+                                    elle, n'est présente qu'en Asie. Une espèce disparue a vécu en Europe dont en France
+                                    jusque
+                                    dans le précédent interglaciaire</p>
+                            </div>
                         </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="card card-body mb-3">
-                            <h3>Les loutres à joues blanches du Cap</h3>
-                            <img src="public/images/loutre-joue-blanche.jpg" alt="Cette photo montre une loutre cendrée"
-                                 height="130" width="258">
-                            <p>Les loutres à joues blanches sont un genre de loutres de la famille des Mustélidés. Si
-                                la
-                                loutre du Cap ne se rencontre à l'état sauvage qu'en Afrique, la loutre cendrée, quant à
-                                elle, n'est présente qu'en Asie. Une espèce disparue a vécu en Europe dont en France
-                                jusque dans le précédent interglaciaire.</p>
+                        <div class="col-md-6">
+                            <div class="card card-body mb-3">
+                                <h3>Les loutres à joues blanches du Cap</h3>
+                                <img src="public/images/loutre-joue-blanche.jpg"
+                                     alt="Cette photo montre une loutre cendrée"
+                                     height="130" width="258">
+                                <p>Les loutres à joues blanches sont un genre de loutres de la famille des Mustélidés.
+                                    Si
+                                    la
+                                    loutre du Cap ne se rencontre à l'état sauvage qu'en Afrique, la loutre cendrée,
+                                    quant à
+                                    elle, n'est présente qu'en Asie. Une espèce disparue a vécu en Europe dont en France
+                                    jusque dans le précédent interglaciaire.</p>
+                            </div>
                         </div>
                     </div>
                 </div>
-                </div>
-                <div class="row">
-                    <div class="card mb-6">
-                        <img class="card-img-top" src="public/images/loutre-joue-blanche.jpg"
-                             alt="Cette photo montre une loutre cendrée">
-                        <div class="card-body">
-                            <h5 class="card-title">Mickey</h5>
-                            <p>MLes loutres à joues blanches sont un genre de loutres de la famille des Mustélidés. Si
-                                la
-                                loutre du Cap ne se rencontre à l'état sauvage qu'en Afrique, la loutre cendrée, quant à
-                                elle, n'est présente qu'en Asie. Une espèce disparue a vécu en Europe dont en France
-                                jusque dans le précédent interglaciaire.</p>
-                            <a href="./contact.php" class="btn btn-primary">Venez le rencontrer !</a>
-                        </div>
-                    </div>
 
-                    <div class="card mb-3">
-                        <img class="card-img-top" src="public/images/loutre-joue-blanche.jpg"
-                             alt="Cette photo montre une loutre cendrée">
-                        <div class="card-body">
-                            <h5 class="card-title">Mickey</h5>
-                            <p>MLes loutres à joues blanches sont un genre de loutres de la famille des Mustélidés. Si
-                                la
-                                loutre du Cap ne se rencontre à l'état sauvage qu'en Afrique, la loutre cendrée, quant à
-                                elle, n'est présente qu'en Asie. Une espèce disparue a vécu en Europe dont en France
-                                jusque dans le précédent interglaciaire.</p>
-                            <a href="./contact.php" class="btn btn-primary">Venez le rencontrer !</a>
-                        </div>
-                    </div>
+
                 </div>
                 <div class="row">
                     <div class="col-md-6">
