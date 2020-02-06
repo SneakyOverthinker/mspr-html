@@ -10,47 +10,51 @@
         </div>
     </section>
 
+    <div class="container">
+
+        <nav class="nav flex-column">
+            <a class="nav-link active" href="#">Faîtes un don</a>
+            <a class="nav-link" href="#">Adoptez une loutre</a>
+            <a class="nav-link" href="#">Contactez-nous</a></nav>
+    </div>
+
     <!--Main Layout-->
     <main>
 
-        <!-- Side navigation -->
-        <div class="sidenav">
-            <a href="#">Lorem ipsum dolor</a>
-            <a href="#">Vestibulum diam</a>
-            <a href="#">Nulla dapibus</a>
-            <a href="#">Etiam tristique</a>
-        </div>
-
-        <!-- Page content -->
-        <div class="main">
-            ...
-        </div>
 
 
         <div class="container">
             <!--Grid row-->
             <div class="row py-5">
-                <!--Grid column-->
 
-                <div class="col text-center">
-                    <div class="card card-body">
 
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                            laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-                            voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-                            non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <div class="card-deck">
+
+                    <div class="card">
+                        <img src="public/images/rebecca" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Rebecca</h5>
+                            <p class="card-text">Amie des loutres.</p>
+                            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <img src="public/images/tami" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Tami</h5>
+                            <p class="card-text">Trouve les loutres blessées et les remets sur pattes.</p>
+                            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <img src="public/images/angie" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Angie</h5>
+                            <p class="card-text">Famille d'accueil des loutres, elle a sauvé Manuel qui est maintenant disponible à l'adoption.</p>
+                            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                        </div>
                     </div>
                 </div>
-                <div class="col">
-                    <div class="card card-body">
-                        blabla
-                    </div>
-                </div>
-                <!--Grid column-->
-            </div>
-            <!--Grid row-->
-        </div>
     </main>
     <!--Main Layout-->
 
