@@ -49,10 +49,9 @@
                                 <a href="./contact.php" class="btn btn-primary">Venez le rencontrer !</a>
                             </div>
                         </div>
-
                     </div>
-                    <div class="col-md-4">
 
+                    <div class="col-md-4">
 
                         <div class="card mb-3">
                             <img class="card-img-top" src="public/images/manuel.jpg"
@@ -68,6 +67,7 @@
                         </div>
 
                     </div>
+
                     <div class="col-md-4">
 
 
@@ -119,37 +119,14 @@
                                     Force à toi ! </p>
                                 <a href="./contact.php" class="btn btn-primary">Venez la rencontrer !</a>
                             </div>
-                        </div>
+
                     </div>
                 </div>
-            </div>
-        </section>
-
-        <section id="loutre-cta">
-            <div class="container">
-
-                <div class="card card-body mb-3">
-                    <div class="cta-inner text-center rounded">
-                        <div style="align-content: center">
-                            <h3>La nouvelle portée</h3>
-                            <img src="../public/images/bébou.jpg"
-                                 alt="Photo de la dernière portée">
-                            <p>Et voici Coban, Igan Zoran et Eléa sont les petits du vicieux Manuel. Il les a fait avec
-                                Pauline mais Pauline est morte en donnant naissance à ses petits. Manuel n'a pas assumé
-                                cela lui fait peur. Alors il les a abandonnés et maintenant c'est à vous de les sauver.
-                                Je sais que vous n'êtes pas avoir des bébés donc entrainez-vous avec des bébés loutres
-                                avec un peu de chance ils vont tueront et cela fera moins de cons. Donc c'est cool
-                                ! </p>
-                            <a href="./contact.php" class="btn btn-primary">Venez les rencontrer !</a>
-                        </div>
-                    </div>
-                </div>
-
             </div>
         </section>
 
         <section class="pb-5" hidden>
-            <div class="container">
+            <div class="container pb-5">
 
                 <div class="row">
                     <div class="col-sm-6">
