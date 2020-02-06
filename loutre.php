@@ -125,6 +125,40 @@
             </div>
         </section>
 
+
+        <section id="home-catalogue">
+            <div class="container">
+
+                <div class="row">
+
+                    <div class="col-md-4">
+                        <div class="container py-5">
+                                <h5>Venez découvrir leur refuges ! </h5>
+                                <a href="./refuge" class="btn btn-primary">Leur maison !</a>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <div class="container py-5">
+                            <form method="GET" action="./don">
+                                <h5>Soutenez-les, soutenez-nous ! </h5>
+                                <button type="submit" class="btn btn-primary">
+                                    Faites un don !
+                                </button>
+                            </form>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <div class="container py-5">
+                            <form method="GET" action="./conseils">
+                                <h5>Conseils pratiques ! </h5>
+                                <button type="submit" class="btn btn-primary">
+                                    Bien s'occuper de sa loutre !
+                                </button>
+                            </form>
+                        </div>
+                    </div>
         <section class="pb-5" hidden>
             <div class="container pb-5">
 
