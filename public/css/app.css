@@ -69,6 +69,20 @@ footer {
   background-repeat: no-repeat;
   padding: 230px 0 170px 0; }
 
+#pond {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center; }
+
+#home-container {
+  margin-bottom: 50px; }
+
 #about-jumbotron {
   background-image: url("../public/images/loutre-home-page");
   padding: 160px 0 100px 0; }
@@ -98,7 +112,7 @@ footer {
     font-size: 18px; } }
 
 #catalogue-jumbotron {
-  padding: 50px 0; }
+  background-size: 100% auto; }
 
 #home-formulaire {
   margin-left: auto;
