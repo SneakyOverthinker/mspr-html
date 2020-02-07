@@ -42,8 +42,12 @@
                             <button type="button" class="btn btn-primary">Notre équipe</button>
                         </div>
                         <div class="col-md-6" style="justify-content: center; display: flex">
+<<<<<<< Updated upstream
                             <img src="public/images/group-otters.png" class="rounded-pill" alt="loutre">
 
+=======
+                            <img src="public/images/group-otters.png">
+>>>>>>> Stashed changes
                         </div>
                     </div>
                 </div>
