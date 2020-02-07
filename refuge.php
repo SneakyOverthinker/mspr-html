@@ -134,7 +134,16 @@
 
                         Si vous voulez tout savoir sur la Loutre de mer et contempler des photos de petits bébés loutres
                         de mer adorables, consultez l'article Loutre de mer : 10 choses à savoir de PlanèteAnimal !</p>
-                      
+                        <div class="col-md-4">
+                            <div class="container py-5">
+                                <form method="GET" action="./loutre">
+                                    <h5>Venez découvrir nos loutres. </h5>
+                                    <button type="submit" class="btn btn-primary">
+                                        Nos loutres.
+                                    </button>
+                                </form>
+                            </div>
+                        </div>
                 </div>
                 </div>
 
