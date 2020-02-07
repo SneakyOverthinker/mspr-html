@@ -10,11 +10,12 @@
 
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
-                <li class="nav-item">
-                    <a class="nav-link" href="loutre">Loutres</a>
-                </li>
+
                 <li class="nav-item">
                     <a class="nav-link" href="catalogue">Catalogue</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="loutre">Loutres</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="refuge">Refuge</a>
