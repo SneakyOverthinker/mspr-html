@@ -17,7 +17,7 @@
             <div class="row">
                 <div class="col-md-6">
                     <h2>
-                        Association OTTERS
+                        S'il vous plait
                     </h2>
                     <div class="pond">
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et pellentesque
@@ -53,7 +53,7 @@
                 </div>
 
                 <div class="container" id="main">
-                    <h2>Aidez-nous à prendre soin de nos loutres au mieux</h2>
+                    <h2>Objectif du mois</h2>
 
                     <div class="card card-body">
                         <div class="progress" style="height: 1px;">
