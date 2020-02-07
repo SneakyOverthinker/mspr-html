@@ -32,7 +32,7 @@
                             <h2>
                                 Association OTTERS
                             </h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et pellentesque
+                            <p>      (ici nous parlons de ce que l"association fait)Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et pellentesque
                                 est, eget auctor nulla. Maecenas pretium metus sed urna iaculis, in egestas
                                 velit viverra. Praesent faucibus enim eget nulla suscipit blandit.
                                 In hac habitasse platea dictumst. Nulla suscipit nisl eu nibh iaculis tristique.
@@ -112,15 +112,28 @@
                 </div>
 
 
+
+    <div class="pond" id="main">
+        <div class="container-fluid px-5">
+            <span>Offrez leur une nouvelle vie</span>
+            <h1>Otters</h1>
+            <div class="container-fluid px-5">
+                <span>Elles n'attendent que vous !</span>
+                <button type="button" class="btn btn-primary">Faire un don</button>
+            </div>
+        </div>
+    </div>
+
+
                 <!--Grid column-->
             </div>
 
-
-
-
-
-
+        </div>
     </section>
+
+
+
+
 
 
 

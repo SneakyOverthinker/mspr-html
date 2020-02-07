@@ -69,7 +69,8 @@
                     <div class="card-don"
                     <div class="card card body">
                     <span id="main">
-                        Entrez le montant de votre choix
+
+                        <h3 id="h2">Entrez le montant de votre choix</h3>
                     </span>
                     <div class="input-group mb-3">
                         <div class="input-group-prepend">
@@ -80,6 +81,7 @@
                             <span class="input-group-text">.00</span>
                         </div>
                     </div>
+                        <button type="button" class="btn btn-primary">Faire un don</button>
                     </div>
                 </div>
 
@@ -87,9 +89,10 @@
                 </div>
 
                 <section id="main">
-                <p>
-                    Nous sommes si près du but !
-                </p>
+                <h3 id="h1">
+                    Merci beaucoup !
+                </h3>
+                    <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/GVjw7BvjUd9AI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/eyebleach-otters-deserve-GVjw7BvjUd9AI">via GIPHY</a></p>
                 </section>
 
 
