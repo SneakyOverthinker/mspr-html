@@ -139,7 +139,7 @@
                                 <form method="GET" action="./loutre">
                                     <h5>Venez découvrir nos loutres. </h5>
                                     <button type="submit" class="btn btn-primary">
-                                        Nos loutres.
+                                        Nos loutres
                                     </button>
                                 </form>
                             </div>

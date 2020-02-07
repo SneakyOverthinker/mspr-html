@@ -27,7 +27,7 @@
                                     Afrique, la loutre cendrée, quant à elle, n'est présente qu'en Asie. Une espèce
                                     disparue a vécu en Europe dont en France jusque dans le précédent
                                     interglaciaire.</p>
-                                <a href="./contact.php" class="btn btn-primary">Venez le rencontrer !</a>
+                                <a href="./contact.php" class="btn btn-primary">Venez le rencontrer </a>
                             </div>
                         </div>
                         <!-- fin de super card -->
@@ -46,7 +46,7 @@
                                 Mustelidés. Aussi appelée loutre asiatique ou loutre naine d'Asie, cette loutre est
                                 menacée et
                                 considérée comme étant vulnérable à cause de la disparition rapide de son habitat Tu étais si belle Christina et tu es devenu Christiana.</p>
-                                <a href="./contact.php" class="btn btn-primary">Venez le rencontrer !</a>
+                                <a href="./contact.php" class="btn btn-primary">Venez le rencontrer </a>
                             </div>
                         </div>
                     </div>
@@ -62,7 +62,7 @@
                                 n'êtes pas prêt il a une histoire incroyable. Ce vieux mâle
                                 déconfi, ce genre d'embrouille que seul Manu peut comprendre avec ses congénères. Manu
                                 l'embrouille n'a jamais su se fondre dans son environnement.</p>
-                                <a href="./contact.php" class="btn btn-primary">Venez le rencontrer ;)</a>
+                                <a href="./contact.php" class="btn btn-primary">Venez le rencontrer </a>
                             </div>
                         </div>
 
@@ -81,7 +81,7 @@
                                 loutre
                                 de mer ont de longues queues. La taille varie selon les espèces, allant de 60 cm à
                                 1,8 m de long pour un poids de 1 à 45 kg.Force à toi Fagy t'as un nom de merde.</p>
-                                <a href="./contact.php" class="btn btn-primary">Venez la rencontrer !</a>
+                                <a href="./contact.php" class="btn btn-primary">Venez la rencontrer </a>
                             </div>
                         </div>
 
@@ -98,7 +98,7 @@
                                 ta vie. Il aime jouer et mordre parce que comme toutes les loutres il n'est pas fait
                                 pour être adopté et ça vous vous en foutez parce que pour votre plaisir personnel vous
                                 allez quand même l'adopter et pleurer parce qu'il vous mordra. </p>
-                                <a href="./contact.php" class="btn btn-primary">Venez le rencontrer !</a>
+                                <a href="./contact.php" class="btn btn-primary">Venez le rencontrer </a>
                             </div>
                         </div>
 
@@ -117,7 +117,7 @@
                                     ça laisse des traces sales et
                                     sequelles séches que vous ne comprendriez même pas ! Ce genre de lifestyle Léna
                                     Force à toi ! </p>
-                                <a href="./contact.php" class="btn btn-primary">Venez la rencontrer !</a>
+                                <a href="./contact.php" class="btn btn-primary">Venez la rencontrer </a>
                             </div>
 
                     </div>
@@ -135,7 +135,8 @@
                     <div class="col-md-4">
                         <div class="container py-5">
                                 <h5>Venez découvrir leur refuge ! </h5>
-                                <a href="./refuge" class="btn btn-primary">Leur maison !</a>
+                                <h5>Venez découvrir leur refuge ! </h5>
+                                <a href="./refuge" class="btn btn-primary">Leur maison </a>
                         </div>
                     </div>
 
@@ -144,7 +145,7 @@
                             <form method="GET" action="./don">
                                 <h5>Soutenez-les, soutenez-nous ! </h5>
                                 <button type="submit" class="btn btn-primary">
-                                    Faites un don !
+                                    Faites un don
                                 </button>
                             </form>
                         </div>
@@ -155,7 +156,7 @@
                             <form method="GET" action="./conseils">
                                 <h5>Conseils pratiques ! </h5>
                                 <button type="submit" class="btn btn-primary">
-                                    Bien s'occuper de sa loutre !
+                                    Bien s'occuper de sa loutre
                                 </button>
                             </form>
                         </div>
