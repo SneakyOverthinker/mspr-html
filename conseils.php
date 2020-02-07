@@ -79,8 +79,16 @@
 
                         Si vous voulez tout savoir sur la Loutre de mer et contempler des photos de petits bébés loutres
                         de mer adorables, consultez l'article Loutre de mer : 10 choses à savoir de PlanèteAnimal !</p>
+                    <div class="conatiner py-7">
                     <h2>Son habitat naturel</h2>
-                    <p></p>
+                    <p>Dans des pays comme le Japon ou l'Argentine, il existe une nouvelle "tendance" qui consiste à
+                        adopter une loutre comme animal domestique. La loutre asiatique a alors un prix exorbitant même
+                        si certaines personnes continuentn d'en acheter. Même si elle peut sembler être un animal docile
+                        et domptable, la loutre est un animal sauvage, qui n'est pas passé par un processus de
+                        domestication, qui prendrait des centaines d'années. Il existe toutefois encore aujourd'hui des
+                        élevages de loutres, bien qu'une loutre apprivoisée reste aujourd'hui presque impossible.</p>
+                    </div>
+
                 </div>
             </div>
 
