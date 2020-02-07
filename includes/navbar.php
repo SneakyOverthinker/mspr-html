@@ -1,7 +1,7 @@
 <header id="header">
     <nav class="navbar navbar-expand-lg navbar-light bg-transparent">
         <a class="navbar-brand" href="index">
-            <a class="navbar-brand" href="index.php"><span class="logo"><img src="public/images/icon2.ico" width="20%">  <a class="nav-link" hfref="index.php">OTTERS</a></span>
+            <a class="navbar-brand" href="index.php"><span class="logo"><img src="public/images/icon2.ico" width="20%">  <a hfref="index.php">OTTERS </a></span>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
