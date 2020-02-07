@@ -42,12 +42,8 @@
                             <button type="button" class="btn btn-primary">Notre équipe</button>
                         </div>
                         <div class="col-md-6" style="justify-content: center; display: flex">
-<<<<<<< Updated upstream
                             <img src="public/images/group-otters.png" class="rounded-pill" alt="loutre">
 
-=======
-                            <img src="public/images/group-otters.png">
->>>>>>> Stashed changes
                         </div>
                     </div>
                 </div>
@@ -117,14 +113,15 @@
 
 
 
-    <div class="pond" id="main">
+    <div class="pond">
         <div class="container-fluid px-5">
             <span>Offrez leur une nouvelle vie</span>
             <h1>Otters</h1>
             <div class="container-fluid px-5">
                 <span>Elles n'attendent que vous !</span>
-                <button type="button" class="btn btn-primary">Faire un don</button>
+
             </div>
+            <button type="button" class="btn btn-primary">Faire un don</button>
         </div>
     </div>
 
