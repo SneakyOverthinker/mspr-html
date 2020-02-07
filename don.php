@@ -10,7 +10,17 @@
     </section>
 
 <section>
-
+    <div class="container">
+        <section class="pond">
+            <div class="container-fluid px-5">
+                <span>Offrez leur une nouvelle vie</span>
+                <h1>Otters</h1>
+                <div class="container-fluid px-5">
+                    <span>Elles n'attendent que vous !</span>
+                </div>
+            </div>
+        </section>
+    </div>
 </section>
 
 
