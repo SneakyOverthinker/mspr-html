@@ -1,7 +1,7 @@
 <?php require_once 'includes/header.php'; ?>
 
     <section id="contact-jumbotron"
-             style=" background-image: url('https://static.lpnt.fr/images/2018/12/21/17792283lpw-17792282-article-jpg_5825528.jpg'); background-repeat: no-repeat; background-position: center center; background-size: cover; padding: 220px">
+             style=" background-image: url('https://zupimages.net/up/20/06/jf3b.jpg'); background-repeat: no-repeat; background-position: center center; background-size: cover; padding: 220px">
         <div class="container">
             <!--Grid row-->
             <h1 class="display-4 text-white">Contact</h1>
@@ -99,8 +99,6 @@
     </div>
     </div>
     </section>
-
-
 
 
 

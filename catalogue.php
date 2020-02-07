@@ -1,16 +1,17 @@
 <?php require_once 'includes/header.php'; ?>
 
+    <section id="home-jumbotron"
+             style="background-image: url('public/images/sauvetage-bebe-loutre.jpg');  background-repeat: no-repeat; background-position: center center; background-size: cover; padding: 220px  ">
+        <!-- Full Page Intro -->
+        <div class="container">
+            <!--Grid row-->
+            <h1 class="display-4 text-white">Découvrez notre catalogue</h1>
+            <!--Grid row-->
+        </div>
+    </section>
     <main id="main">
 
-        <section id="catalogue-jumbotron"
-                 style="background-image: url('https://videos-mdr.com/wp-content/uploads/2014/11/sauvetage-bebe-loutre.jpg');  background-repeat: no-repeat; background-position: center center; background-size: cover; padding: 220px  ">
-            <!-- Full Page Intro -->
-            <div class="container">
-                <!--Grid row-->
-                <h1 class="display-4 text-white">Découvrez notre catalogue</h1>
-                <!--Grid row-->
-            </div>
-        </section>
+
 
         <section id="home-formulaire">
             <div class="container py-5">
