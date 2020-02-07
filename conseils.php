@@ -51,10 +51,7 @@
                         <li>Légumes</li>
                         <li>Poisson</li>
                         <li>Viande</li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
+
                     </ol>
 
                     <h2>Ce qu'il ne faut jamais faire </h2>

@@ -6,6 +6,12 @@
   width: 49%;
   height: 49%; }
 
-img {
+#img {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  max-height: 100%; }
+
+#carousel-item {
   max-width: 100%;
   max-height: 100%; }
