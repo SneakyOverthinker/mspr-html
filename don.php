@@ -66,8 +66,8 @@
                     <p id="main">
                         Nous sommes si près du but ! offrez-leur un nouveau toit ou participez à l'amélioration de celui qu'elles ont déjà ♥
                     </p>
-                    <div class="card-don"
-                    <div class="card card body">
+                    <div>
+                    <div class="card card-body">
                     <span id="main">
 
                         <h3 id="h2">Entrez le montant de votre choix</h3>
