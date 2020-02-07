@@ -62,9 +62,9 @@
                 <div class="col-md-4">
 
                     <div class="card bg-dark text-white mb-5">
-                        <img class="card-img" src="https://placehold.it/500x200" alt="Card image">
+                        <img class="card-img" src="public/images/loutrefun.jpg" alt="Card image">
                         <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
+                            <h5 class="card-title">Où nous trouver</h5>
                             <ul class="list-unstyled mb-0">
                                 <li>
                                     <i class="fas fa-map-marker-alt fa-2x"></i>
@@ -87,34 +87,44 @@
         </div>
     </section>
 
-    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-        <ol class="carousel-indicators">
-            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-        </ol>
-        <div class="carousel-inner">
-            <div class="carousel-item active">
-                <img class="d-block w-100" src="..." alt="First slide">
-            </div>
-            <div class="carousel-item">
-                <img class="d-block w-100" src="..." alt="Second slide">
-            </div>
-            <div class="carousel-item">
-                <img class="d-block w-100" src="..." alt="Third slide">
+    <section class="py-1 my-5">
+        <div class="container">
+            <div class="row">
+    <div class="container py-5">
+        <div class="text-align-center">
+            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                <ol class="carousel-indicators">
+                    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                </ol>
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img src="public/images/12" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="public/images/10" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="public/images/11" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="public/images/9" class="d-block w-100" alt="...">
+                    </div>
+                </div>
+                <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
             </div>
         </div>
-        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-        </a>
     </div>
-
-
-    </html>
+    </div>
+    </div>
+    </section>
 
 <?php require_once 'includes/footer.php'; ?>
