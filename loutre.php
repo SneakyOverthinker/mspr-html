@@ -134,7 +134,7 @@
 
                     <div class="col-md-4">
                         <div class="container py-5">
-                                <h5>Venez découvrir leur refuges ! </h5>
+                                <h5>Venez découvrir leur refuge ! </h5>
                                 <a href="./refuge" class="btn btn-primary">Leur maison !</a>
                         </div>
                     </div>
